@@ -1,9 +1,13 @@
 .DS_Store
-0_Class Project Administration, Review and Evaluation.pdf
-0_Project List.pdf
-Project Summary.pdf
-group project.docx
-Summary Comments.png
+00_Class Project Administration, Review and Evaluation.pdf
+00_Project List.pdf
+01_Project Summary.pdf
+01_Project Summary.docx
+01_Project Summary Comments.png
 .ipynb_checkpoints/
 .python-version
-dataset/
+datasets/flight
+datasets/mta*
+datasets/ny-covid19-positive
+datasets/taxi
+scripts/commands.md
