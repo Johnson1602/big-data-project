@@ -16,3 +16,7 @@
 - Taxi dataset
 	- run spark task (daily pick-ups)
 - partial visualization
+
+## Week 04 (11/30 - 12/10)
+- finish data visualization
+- finish writing report
